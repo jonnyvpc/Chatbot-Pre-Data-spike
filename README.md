@@ -1,2 +1,2 @@
 # Chatbot-Pre-Data-spike
-Extract key financial data and lay the groundwork for AI-driven insights
+AI-powered chatbot for analyzing financial data from 10-K and 10-Q reports
