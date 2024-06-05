@@ -25,19 +25,23 @@ Go to the [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysear
 
 Enter the company name or ticker symbol in the search bar and click "Search".
 
-![Step 2: Search for Company](screenshots/step2_search_for_company.png)
+![Step 2: Search for Company]()
 
 ### Step 3: Select the Filing Type
 
 Select the "10-K" or "10-Q" filing type from the filter options.
 
-![Step 3: Select Filing Type](screenshots/step3_select_filing_type.png)
+![Step 3: Select Filing Type]()
 
 ### Step 4: Download the Report
 
+To help you sort quicker, click the arrows near the File Type. This helps you sort the File Type names.
+
+![Step 4: Download Report]()
+
 Click on the document link to download the 10-K or 10-Q report.
 
-![Step 4: Download Report](screenshots/step4_download_report.png)
+![Step 4: Download Report]()
 
 ## Repository Contents
 
