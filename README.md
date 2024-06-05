@@ -2,7 +2,7 @@
 
 This project focuses on developing an AI-powered chatbot to revolutionize financial data analysis for Global Finance Corp. (GFC). The chatbot will analyze and provide insights on corporate financial performance from 10-K and 10-Q financial documents.
 
-## Project Overview 
+## Project Overview
 
 The project involves the following steps:
 1. **Data Extraction**: Extract key financial data from 10-K reports.
@@ -19,7 +19,7 @@ Follow these steps to extract 10-K and 10-Q data from the SEC's EDGAR database:
 
 Go to the [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html).
 
-![Step 1: Navigate to EDGAR]([screenshots/step1_navigate_to_edgar.png](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/1edgar_ss@1x.png?raw=true))
+![Step 1: Navigate to EDGAR](screenshots/step1_navigate_to_edgar.png)
 
 ### Step 2: Search for a Company
 
