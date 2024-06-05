@@ -25,23 +25,23 @@ Go to the [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysear
 
 Enter the company name or ticker symbol in the search bar and click "Search".
 
-![Step 2: Search for Company]()
+![Step 2: Search for Company](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/2edgar_search@1x.png?raw=true)
 
 ### Step 3: Select the Filing Type
 
 Select the "10-K" or "10-Q" filing type from the filter options.
 
-![Step 3: Select Filing Type]()
+![Step 3: Select Filing Type](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/3edgar_Select%20the%20Filing%20Type@1x.png?raw=true)
 
 ### Step 4: Download the Report
 
 To help you sort quicker, click the arrows near the File Type. This helps you sort the File Type names.
 
-![Step 4: Download Report]()
+![Step 4: Download Report](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/4edgar_hover@1x.png?raw=true)
 
 Click on the document link to download the 10-K or 10-Q report.
 
-![Step 4: Download Report]()
+![Step 4: Download Report](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/5edgar_Click%20on%20the%20document%20link%20to%20download%20the%2010-K%20or%2010-Q%20report@1x.png?raw=true)
 
 ## Repository Contents
 
