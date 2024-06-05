@@ -19,7 +19,7 @@ Follow these steps to extract 10-K and 10-Q data from the SEC's EDGAR database:
 
 Go to the [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html).
 
-![Step 1: Navigate to EDGAR](screenshots/step1_navigate_to_edgar.png)
+![Step 1: Navigate to EDGAR](https://github.com/jonnyvpc/Chatbot-Pre-Data-spike/blob/main/screenshots/1edgar_ss@1x.png?raw=true)
 
 ### Step 2: Search for a Company
 
