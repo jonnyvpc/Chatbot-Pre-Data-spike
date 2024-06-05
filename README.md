@@ -14,6 +14,7 @@ The project involves the following steps:
 ## Repository Contents
 
 - `Task One.ipynb`: Jupyter Notebook containing the data analysis and visualizations.
+- `Cleaned_Financial_Data.csv`: CSV file containing the cleaned financial data.
 
 ## Usage
 
