@@ -2,7 +2,7 @@
 
 This project focuses on developing an AI-powered chatbot to revolutionize financial data analysis for Global Finance Corp. (GFC). The chatbot will analyze and provide insights on corporate financial performance from 10-K and 10-Q financial documents.
 
-## Project Overview
+## Project Overview 
 
 The project involves the following steps:
 1. **Data Extraction**: Extract key financial data from 10-K reports.
